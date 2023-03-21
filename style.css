@@ -1,0 +1,15 @@
+button {
+  color: blue;
+  font-weight: bold;
+}
+
+button:hover {
+  color: violet;
+}
+
+button:active {
+  color: aqua;
+}
+button:link {
+  color: chartreuse;
+}
